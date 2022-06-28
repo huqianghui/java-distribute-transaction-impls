@@ -1,2 +1,2 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-com.ebao.unicorn.platform.foundation.mq.MessageQueueAutoConfig
+com.seattle.msready.mq.transaction.compensating.mq.MessageQueueAutoConfig
